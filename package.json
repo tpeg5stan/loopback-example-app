@@ -1,25 +1,26 @@
 {
   "name": "loopback-example-app",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "description": "LoopBack Example Application",
   "main": "server/server.js",
   "dependencies": {
+    "async": "~0.9.0",
     "compression": "^1.0.3",
+    "cors": "^2.7.1",
     "errorhandler": "^1.1.1",
-    "loopback": "^2.0.0",
-    "loopback-boot": "^2.0.0",
-    "loopback-datasource-juggler": "^2.0.0",
-    "serve-favicon": "^2.0.1",
     "function-rate-limit": "~0.0.1",
+    "loopback": "^2.22.0",
+    "loopback-boot": "^2.12.1",
+    "loopback-connector-rest": "^1.1.4",
+    "loopback-datasource-juggler": "^2.0.0",
     "request": "^2.37.0",
+    "serve-static": "^1.10.0",
     "shuffle": "~0.2.1",
     "text-table": "~0.2.0",
     "weighted": "~0.2.2",
-    "async": "~0.9.0",
-    "loopback-connector-rest": "^1.1.4"
+    "loopback-explorer": "^2.0.0"
   },
   "optionalDependencies": {
-    "loopback-explorer": "^1.1.0",
     "loopback-connector-mysql": "^1.2.1",
     "loopback-connector-mongodb": "^1.2.5",
     "loopback-connector-oracle": "^1.2.1"
