@@ -13,12 +13,12 @@
     "loopback-boot": "^2.12.1",
     "loopback-connector-rest": "^1.1.4",
     "loopback-datasource-juggler": "^2.0.0",
+    "loopback-explorer": "^2.0.0",
     "request": "^2.37.0",
     "serve-static": "^1.10.0",
     "shuffle": "~0.2.1",
     "text-table": "~0.2.0",
-    "weighted": "~0.2.2",
-    "loopback-explorer": "^2.0.0"
+    "weighted": "~0.2.2"
   },
   "optionalDependencies": {
     "loopback-connector-mysql": "^1.2.1",
