@@ -35,10 +35,7 @@
     "url": "https://github.com/strongloop/loopback-example-app.git"
   },
   "author": "Miroslav Bajtos <miroslav@strongloop.com>",
-  "license": {
-    "name": "MIT",
-    "url": "https://github.com/strongloop/loopback-example-app/blob/master/LICENSE"
-  },
+  "license": "MIT",
   "scripts": {
     "test": "mocha -R spec server/test",
     "pretest": "jshint ."
