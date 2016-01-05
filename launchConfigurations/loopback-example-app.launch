@@ -8,7 +8,7 @@
             },
             "Packager": "com.ibm.perfectstorm.cloudoe.packager.LiveEditDeploymentPackager"
         },
-        "Name": "loopback-example-app",
+        "Name": "loopback-example-app-fork",
         "Target": {
             "Org": "f103436P@fr.ibm.com",
             "Space": "start",
