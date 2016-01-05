@@ -1,5 +1,5 @@
 {
-  "name": "loopback-example-app",
+  "name": "loopback-example-app-fork",
   "version": "3.2.0",
   "description": "LoopBack Example Application",
   "main": "server/server.js",
